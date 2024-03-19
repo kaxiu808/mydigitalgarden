@@ -3,6 +3,13 @@
 ---
 
 
+---
+dg-home: true
+dg-publish: true
+title: home
+---
+
+
 这是我的个人 *知识库*.
 
 主要记一些东西, [[python基础知识\|python基础知识]], or  [[js的一些东西\|js的一些东西]]
