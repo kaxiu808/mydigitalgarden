@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dp-py":true,"title":true,"permalink":"/python基础知识/","dgPassFrontmatter":true}
+{"dg-publish":true,"dp-python":true,"permalink":"/python基础知识/","dgPassFrontmatter":true}
 ---
 
 
