@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-hs":true,"permalink":"/js的一些东西/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-js":true,"permalink":"/js的一些东西/","dgPassFrontmatter":true}
 ---
 
 
